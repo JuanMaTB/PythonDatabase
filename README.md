@@ -36,8 +36,8 @@ The project is written in **Python** and follows a **modular structure**, ensuri
 ## 🚀 **How to Run the Project**
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/driving-school-management.git
-   cd driving-school-management
+   git clone https://github.com/JuanMaTB/PythonDatabase
+   cd PythonDatabase
    python main.py
 
 🛠 Technologies Used
